@@ -1,0 +1,2 @@
+# mansa-bot
+discord bot
